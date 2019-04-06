@@ -1,6 +1,10 @@
 import os
 from selenium.common.exceptions import InvalidSessionIdException
 
+# inne zmainy i opisy
+# inne zmainy i opisy
+# inne zmainy i opisy
+# inne zmainy i opisy
 
 ANDROID_APP_PATH = 'http://appium.github.io/appium/assets/ApiDemos-debug.apk' if os.getenv(
     'SAUCE_LABS') else os.path.abspath('../apps/ApiDemos-debug.apk')
