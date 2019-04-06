@@ -8,6 +8,8 @@ from selenium.common.exceptions import InvalidSessionIdException
 # Run standard unittest base.
 
 # wprowadzone zmiany
+# dodana zmiana
+# kolejna zmiana
 class TestAndroidSelectors(unittest.TestCase):
 
     def setUp(self):
