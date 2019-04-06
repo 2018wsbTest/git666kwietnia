@@ -1,9 +1,11 @@
 import os
 from selenium.common.exceptions import InvalidSessionIdException
 
+
 # opis w develop
-
-
+# inne zmainy i opisy
+# inne zmainy i opisy
+# inne zmainy i opisy
 
 
 ANDROID_APP_PATH = 'http://appium.github.io/appium/assets/ApiDemos-debug.apk' if os.getenv(
